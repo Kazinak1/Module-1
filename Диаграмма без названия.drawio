@@ -1,101 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:02:21.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="GHn5II--HKzpiimidwC2" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T14:45:30.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="DNDqSfSB0IKn246lwB8C" version="24.2.1" type="github">
   <diagram name="Страница — 1" id="P6JI2hraffRIriS5gii2">
-    <mxGraphModel dx="1519" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2532" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-1" value="Товар" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-1" value="Постачальник" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-2" value="Товар1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-2" value="Постачальник1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-3" value="Товар2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-3" value="Постачальник2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-4" value="Товар3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-4" value="Постачальник3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-5" value="Товар4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-5" value="Постачальник4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-6" value="Знижка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-6" value="Товар" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-7" value="Знижка1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-7" value="Товар1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-8" value="Знижка2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-8" value="Товар2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-9" value="Знижка3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-9" value="Товар3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-10" value="Знижка4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-10" value="Товар4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-11" value="Замовлення" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-11" value="Склад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-12" value="Замовлення1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-12" value="Склад1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-13" value="Замовлення2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-13" value="Склад2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-14" value="Замовлення3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-14" value="Склад3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-15" value="Замовлення4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-15" value="Склад4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-9" target="SkiOrzyZCOOGiPpzgFNa-2">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-7" target="SkiOrzyZCOOGiPpzgFNa-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-7" target="SkiOrzyZCOOGiPpzgFNa-3">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-10" target="SkiOrzyZCOOGiPpzgFNa-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-10" target="SkiOrzyZCOOGiPpzgFNa-5">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-13" target="SkiOrzyZCOOGiPpzgFNa-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-8" target="SkiOrzyZCOOGiPpzgFNa-4">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-12" target="SkiOrzyZCOOGiPpzgFNa-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-13" target="SkiOrzyZCOOGiPpzgFNa-7">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-15" target="SkiOrzyZCOOGiPpzgFNa-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-12" target="SkiOrzyZCOOGiPpzgFNa-8">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-23" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-14" target="SkiOrzyZCOOGiPpzgFNa-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-15" target="SkiOrzyZCOOGiPpzgFNa-9">
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-1" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-8" target="SkiOrzyZCOOGiPpzgFNa-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="470" as="sourcePoint" />
-            <mxPoint x="440" y="420" as="targetPoint" />
+            <mxPoint x="388" y="467" as="sourcePoint" />
+            <mxPoint x="253" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-23" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-14" target="SkiOrzyZCOOGiPpzgFNa-10">
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-9" target="SkiOrzyZCOOGiPpzgFNa-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="470" as="sourcePoint" />
-            <mxPoint x="440" y="420" as="targetPoint" />
+            <mxPoint x="388" y="467" as="sourcePoint" />
+            <mxPoint x="438" y="417" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Клієнт&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Магазин&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Товар&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="758" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Постачальник&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="758" y="661" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Склад&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="758" y="908" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Працівник&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="911" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Меблі&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="908" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Замовлення&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="661" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-12" value="Є" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="769" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-13" value="Має" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="557" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-14" value="Відвідує" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="457" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-15" value="Має" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="455" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-16" value="Постачається" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="763" y="557" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-17" value="Постачає" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="768" y="766" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-18" value="Наймає" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="621" y="895" width="110" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vFeIOlEEUG4tyz7BfGQq-19" value="Виготовляє" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="895" width="110" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
