@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T15:13:59.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="KkCy7AAOQxEjesBRFu5d" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T15:23:57.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="UgYzFX25r_BcyAZ-Co3O" version="24.2.7" type="github">
   <diagram name="Страница — 1" id="P6JI2hraffRIriS5gii2">
-    <mxGraphModel dx="1787" dy="5013" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2888" dy="4957" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1272,6 +1272,66 @@
             <mxPoint x="1252" y="1169" as="sourcePoint" />
             <mxPoint x="1252" y="1119" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-51" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-14" target="SkiOrzyZCOOGiPpzgFNa-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313" y="181" as="sourcePoint" />
+            <mxPoint x="363" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-52" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkiOrzyZCOOGiPpzgFNa-12" target="SkiOrzyZCOOGiPpzgFNa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313" y="181" as="sourcePoint" />
+            <mxPoint x="363" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-53" value="Клієнт" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-635" y="-1692" width="160" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-54" value="&lt;div&gt;ПІБ Клієнта&lt;/div&gt;&lt;div&gt;Контактний номер&amp;nbsp;&lt;/div&gt;&lt;div&gt;Кількість здійснених покупок&amp;nbsp;&lt;/div&gt;&lt;div&gt;Магазин&lt;/div&gt;&lt;div&gt;Поштовий індекс&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-53">
+          <mxGeometry y="26" width="160" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-57" value="Магазин" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="-1692" width="156" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-58" value="&lt;div&gt;Назва магазину&lt;/div&gt;&lt;div&gt;Адреса магазину&lt;/div&gt;&lt;div&gt;Сайт&lt;/div&gt;&lt;div&gt;Товар&lt;/div&gt;&lt;div&gt;Директор магазину&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-57">
+          <mxGeometry y="26" width="156" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-59" value="Товар" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="101" y="-1617" width="152" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-60" value="Назва товару&amp;nbsp;&lt;div&gt;Кількість на складі&amp;nbsp;&lt;/div&gt;&lt;div&gt;Рейтинг серед клієнтів&lt;/div&gt;&lt;div&gt;Ціна&amp;nbsp;&lt;/div&gt;&lt;div&gt;Країна товару&amp;nbsp;&lt;/div&gt;&lt;div&gt;Постачальник&amp;nbsp;&lt;/div&gt;&lt;div&gt;Бренд&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-59">
+          <mxGeometry y="26" width="152" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-61" value="Постачальник" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="9" y="-1318" width="199" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-62" value="&lt;div&gt;ПІБ постачальника&lt;/div&gt;&lt;div&gt;Контактній номер постачальника&lt;/div&gt;&lt;div&gt;Адреса постачальника&lt;/div&gt;&lt;div&gt;Місто&amp;nbsp;&lt;/div&gt;&lt;div&gt;Склад&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-61">
+          <mxGeometry y="26" width="199" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-63" value="Склад" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-1269" width="156" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-64" value="&lt;div&gt;Назва складу&lt;/div&gt;&lt;div&gt;Адреса складу&lt;/div&gt;&lt;div&gt;ПІБ директора&amp;nbsp;&lt;/div&gt;&lt;div&gt;Працівник&amp;nbsp;&lt;/div&gt;&lt;div&gt;Тип складу&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-63">
+          <mxGeometry y="26" width="156" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-65" value="Працівник" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-797" y="-1204" width="156" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-66" value="&lt;div&gt;ПІБ працівника&lt;/div&gt;&lt;div&gt;Стаж&amp;nbsp;&lt;/div&gt;&lt;div&gt;Рейтинг&amp;nbsp;&lt;/div&gt;&lt;div&gt;Меблі&amp;nbsp;&lt;/div&gt;&lt;div&gt;Фірма&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-65">
+          <mxGeometry y="26" width="156" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-67" value="Меблі" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1013" y="-1444" width="156" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-68" value="&lt;div&gt;Країна&amp;nbsp;&lt;/div&gt;&lt;div&gt;Розмір&amp;nbsp;&lt;/div&gt;&lt;div&gt;Матеріал&lt;/div&gt;&lt;div&gt;Назва меблі&amp;nbsp;&lt;/div&gt;&lt;div&gt;Замовлення&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-67">
+          <mxGeometry y="26" width="156" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-69" value="Замовлення" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-943" y="-1664" width="163" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="UepebHomalN7UXJZ01OK-70" value="&lt;div&gt;Номер замовлення&lt;/div&gt;&lt;div&gt;Дата замовлення&amp;nbsp;&lt;/div&gt;&lt;div&gt;Кількість куплених товарів&lt;/div&gt;&lt;div&gt;Вартість замовлення&lt;/div&gt;&lt;div&gt;Клієнт&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UepebHomalN7UXJZ01OK-69">
+          <mxGeometry y="26" width="163" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
