@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T11:51:39.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="XPrU1YgkXuivTXRkkT69" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T12:10:23.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="UrpukEJwpmgvF9EYUpKW" version="24.2.7" type="github">
   <diagram name="Страница — 1" id="P6JI2hraffRIriS5gii2">
-    <mxGraphModel dx="2762" dy="5565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="4492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SkiOrzyZCOOGiPpzgFNa-1" value="Постачальник" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-2" value="Постачальник1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-2" value="Дратун К. Р." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-3" value="Постачальник2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-3" value="Меблевий А. У." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-4" value="Постачальник3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-4" value="Зарічна В.Ф." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-5" value="Постачальник4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-5" value="Вербицька Е.С." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkiOrzyZCOOGiPpzgFNa-6" value="Товар" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-7" value="Товар1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-7" value="Полиця" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-8" value="Товар2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-8" value="Шафа купе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-9" value="Товар3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-9" value="Диван RGD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-10" value="Товар4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-10" value="Ліжко SX" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkiOrzyZCOOGiPpzgFNa-11" value="Склад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-12" value="Склад1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-12" value="Великий" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-13" value="Склад2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-13" value="ЛогікСтор" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-14" value="Склад3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-14" value="СкладЮА" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkiOrzyZCOOGiPpzgFNa-15" value="Склад4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SkiOrzyZCOOGiPpzgFNa-15" value="КарготЦентр" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkiOrzyZCOOGiPpzgFNa-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SkiOrzyZCOOGiPpzgFNa-7" target="SkiOrzyZCOOGiPpzgFNa-3" edge="1">
